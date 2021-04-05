@@ -1,1 +1,1 @@
-# RestAssuredDemo
+# RestAssuredAutomation
